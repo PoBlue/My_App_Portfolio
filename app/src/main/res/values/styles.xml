@@ -8,4 +8,14 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="udacity_Btn">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/colorUdacity</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_margin">6dp</item>
+    </style>
+
 </resources>
